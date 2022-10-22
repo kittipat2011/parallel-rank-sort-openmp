@@ -18,7 +18,7 @@ Example
 2. ./Rank_Sort_openmp
 3. 100000
 4. 16
-5 obtain result.
+5. obtain result.
 6. end of the program.
 Member
 6388019 Sorawanan Jeamjantarasakhon
