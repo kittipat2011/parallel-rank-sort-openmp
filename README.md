@@ -22,6 +22,8 @@ For Example
 4. 16
 5. obtain result.
 6. end of the program.
-Member
+
+
+Member of the project
 6388019 Sorawanan Jeamjantarasakhon
 6388119 Kittipat Arpanon
