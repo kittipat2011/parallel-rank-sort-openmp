@@ -13,7 +13,9 @@ Instruction to run our program.
 	- sequential time to sort the integers
 	- parallel time to sort the integers
 	- speed up for the input array(using time_in_sequential/time_in_parallel)
-Example
+
+
+For Example
 1. gcc -o Rank_Sort_openmp -fopenmp Rank_Sort_openmp.c
 2. ./Rank_Sort_openmp
 3. 100000
