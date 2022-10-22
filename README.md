@@ -25,5 +25,5 @@ For Example
 
 
 Member of the project
-6388019 Sorawanan Jeamjantarasakhon
-6388119 Kittipat Arpanon
+1. 6388019 Sorawanan Jeamjantarasakhon
+2. 6388119 Kittipat Arpanon
